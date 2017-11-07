@@ -6,6 +6,8 @@
 
 **Auto** for having the ability to **auto**matically run everything on a set schedule
 
+![AutoAMP screenshot](https://github.com/0x416c616e/AutoAMP/blob/master/AutoAMP_screenshot.png "Screenshot of AutoAMP as of 11/6/2017")
+
 ## About
 
 This program is not finished. It's just a GUI with non-functional buttons at this point.
