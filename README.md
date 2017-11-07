@@ -1,9 +1,11 @@
 # Readme
 
-## AutoAMP
+## AutoAMP (work in progress)
 
-**AMP** = *A*lan's *M*aintenance *P*rogram
-**Auto** for having the ability to *auto*matically run everything on a set schedule
+**AMP** = **A**lan's **M**aintenance **P**rogram
+**Auto** for having the ability to **auto**matically run everything on a set schedule
+
+## About
 
 This program is not finished. It's just a GUI with non-functional buttons at this point.
 
